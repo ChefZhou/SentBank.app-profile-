@@ -7,3 +7,13 @@ In the original loan script, there was no stopping point for the loan limit, and
 I've also personalized the branding and user interface to reflect my style, making it more than just a direct copy and more suitable for a portfolio piece.
 
 Additionally, I've included alert pop-up windows to give the webpage a realistic touch. Much like real banking apps, each action has a corresponding reminder, and monetary values don't appear instantly but rather after a short delay, mimicking real-world processes.
+
+I have four preset accounts:
+
+User: js, Pin: 1111
+
+User: jd, Pin: 2222
+
+User: stw, Pin: 3333
+
+User: ss, Pin: 4444
